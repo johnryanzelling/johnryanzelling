@@ -1,3 +1,5 @@
+<img src="bg.png"  width="100" height="100">
+
 ## Welcome to my GitHub profile
 GitHub is a collaborative platform for software developers to store, manage, track, and share their coding projects. It's essentially a social network for coders, where they can contribute to each other's work and manage projects with version control using Git. 
 
