@@ -1,17 +1,13 @@
 <img src="bg.png"  width="100" height="100">
 
 ## Welcome to my GitHub profile
-GitHub is a collaborative platform for software developers to store, manage, track, and share their coding projects. It's essentially a social network for coders, where they can contribute to each other's work and manage projects with version control using Git. 
+GitHub is a collaborative platform for software developers to store, manage, track, and share their coding projects.
 
 ### About
--  I’m currently working on becoming a teacher with a background in engineering and technology.
--  I’m currently obtaining an MA in Education and Teaching Mathematics.
--  I’m working on educational projects and database tools for learning.
-
-### Skills
-- Languages: Python, JavaScript, R
-- Tools: AutoCAD, SQL databases, GitHub
-- Soft Skills: Teamwork, communication, adaptability, problem-solving
+- I’m currently working on becoming a teacher  
+- I have a long career background in engineering and technology  
+- I’m currently obtaining an MA in Education and Teaching Mathematics  
+- I’m working on educational projects and database tools for learning  
 
 #### Programming Languages:
 - **Python**: Experienced in data analysis, web development with frameworks like Django and Flask, scripting, and machine learning with libraries such as pandas, NumPy, scikit-learn, and TensorFlow.
@@ -40,25 +36,22 @@ GitHub is a collaborative platform for software developers to store, manage, tra
 - **Bash/Shell Scripting**: Comfortable with command-line interfaces and writing shell scripts for task automation.
 
 #### Technical Art
-- **3d modeling**,
+- **3d modeling**
 - **Autocad**
 - **Rhino**
 - **Sketchup**
 - **Unity**
 - **Shaders development**
 
-
 ### Stats
-I'm currently working on projects to increase these stats: 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+I'm currently working on projects to increase these stats:  
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
 
-<!-- ### 📚 My Latest Blog Posts -->
-<!-- Section coming soon -->
+### My Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-<!-- - [How to Transition Careers Successfully](#) -->
-<!-- - [The Importance of Practical Learning in Education](#) -->
+- **GitHub:** [github.com/johnryanzelling](https://github.com/johnryanzelling.github.io)  
 <!-- BLOG-POST-LIST:END -->
 
-### 📫 How to Reach Me
+### How to Reach Me
 - **LinkedIn:** [linkedin.com/in/johnryanzelling/](https://www.linkedin.com/in/johnryanzelling/)
 - **GitHub:** [github.com/johnryanzelling](https://github.com/johnryanzelling)
