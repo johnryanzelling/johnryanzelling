@@ -50,10 +50,11 @@ GitHub is a collaborative platform for software developers to store, manage, tra
 I'm currently working on projects to increase these stats: 
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-### 📚 My Latest Blog Posts
+<!-- ### 📚 My Latest Blog Posts -->
+<!-- Section coming soon -->
 <!-- BLOG-POST-LIST:START -->
-- [How to Transition Careers Successfully](#)
-- [The Importance of Practical Learning in Education](#)
+<!-- - [How to Transition Careers Successfully](#) -->
+<!-- - [The Importance of Practical Learning in Education](#) -->
 <!-- BLOG-POST-LIST:END -->
 
 ### 📫 How to Reach Me
