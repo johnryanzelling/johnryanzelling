@@ -1,16 +1,14 @@
+# D:/Projects/Main/johnryanzelling
 
-# Project Structure
+```{r}
+library(fs)
+current_dir <- getwd()
+parent_dir <- dirname(current_dir)
+#all_files <- list.files(parent_dir, full.names = TRUE, recursive = TRUE)
+#print(all_files)
+dir_tree(parent_dir, recurse=TRUE)
 
-.
-├── johnryanzelling/
-│   ├── .git/
-│   ├── .Rproj.user/
-│   ├── bg.png
-│   ├── docs
-│       ├── README.Rmd #Project metadata
-│   ├── README.md #Project specific md for github
-
-
+```
 
 # TODO
 NA
