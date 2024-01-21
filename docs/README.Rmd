@@ -1,9 +1,11 @@
 
 # Project Structure
 
+.
 ├── johnryanzelling/
 │   ├── .git/
 │   ├── .Rproj.user/
+│   ├── bg.png
 │   ├── docs
 │       ├── README.Rmd #Project metadata
 │   ├── README.md #Project specific md for github
