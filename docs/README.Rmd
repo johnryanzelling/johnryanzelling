@@ -5,13 +5,11 @@
 │   ├── .git/
 │   ├── .Rproj.user/
 │   ├── docs
-│       ├── README.Rmd # Project metadata
-│   ├── README.md # Project specific md for github
-│   └── [other project-specific files and directories]
+│       ├── README.Rmd #Project metadata
+│   ├── README.md #Project specific md for github
 
 
 
 # TODO
-need to put the data from the archive into csv files to keep record and clean up the directory
-once in csv record, delete all pdf and formattted data. 
+NA
 
