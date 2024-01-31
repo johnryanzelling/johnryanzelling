@@ -43,6 +43,10 @@ GitHub is a collaborative platform for software developers to store, manage, tra
 - **Unity**
 - **Shaders development**
 
+#### Latest Project
+- **Generative Art**: Searching for new patterns. The idea for the project was to create fractals that are so infinitely deep that every image created is unique and something never seen before. I run the program at night generating images searching for new patterns. If I find something interesting, I can explore deeper or increase the resolution. 
+<img src="ucc_seed49161054.png"  width="300" height="300">
+
 ### Stats
 I'm currently working on projects to increase these stats:  
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
