@@ -1,4 +1,4 @@
-<img src="bg.png"  width="100" height="100">
+<img src="ucc_seed1651116369.png"  width="100" height="100">
 
 ## Welcome to my GitHub profile
 GitHub is a collaborative platform for software developers to store, manage, track, and share their coding projects.
