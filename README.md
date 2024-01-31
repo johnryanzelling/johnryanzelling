@@ -1,13 +1,14 @@
-<img src="ucc_seed1651116369.png"  width="100" height="100">
+<img src="ucc_seed1651116369.png"  width="150" height="150">
 
 ## Welcome to my GitHub profile
-GitHub is a collaborative platform for software developers to store, manage, track, and share their coding projects.
+I use github to store, manage, track, and share coding projects, but at the moment all repositories are private. 
 
 ### About
-- I’m currently working on becoming a teacher  
+- I’m currently working on becoming a licensed teacher  
 - I have a long career background in engineering and technology  
 - I’m currently obtaining an MA in Education and Teaching Mathematics  
 - I’m working on educational projects and database tools for learning  
+- I have started writing a Math Foundations book for elementary and high school Mathematics test preperation
 
 #### Programming Languages:
 - **Python**: Experienced in data analysis, web development with frameworks like Django and Flask, scripting, and machine learning with libraries such as pandas, NumPy, scikit-learn, and TensorFlow.
@@ -23,7 +24,7 @@ GitHub is a collaborative platform for software developers to store, manage, tra
 - **NoSQL**: Familiar with document-oriented databases such as MongoDB and key-value stores like Redis.
 
 #### Version Control:
-- **Git**: Well-versed in using Git for version control, experienced with branching, merging, and working with remote repositories on platforms like GitHub.
+- **Git**: Well-versed in using Git for version control, experienced with branching, merging, and working with remote repositories on platforms like GitHub.  
 
 #### Data Analysis and Visualization Tools:
 - **Tableau**: Knowledgeable in creating interactive data visualizations and dashboards.
