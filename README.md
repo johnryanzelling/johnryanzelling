@@ -8,7 +8,7 @@ I use github to store, manage, track, and share coding projects, but at the mome
 - I have a long career background in engineering and technology  
 - I’m currently obtaining an MA in Education and Teaching Mathematics  
 - I’m working on educational projects and database tools for learning  
-- I have started writing a Math Foundations book for elementary and high school Mathematics test preperation
+- I have started writing a Math Foundations book for elementary and high school Mathematics test preperation. The book is title Math Foundations and I currently use it for my own lessons but have no plans to publish yet (its unfinished). 
 
 #### Programming Languages:
 - **Python**: Experienced in data analysis, web development with frameworks like Django and Flask, scripting, and machine learning with libraries such as pandas, NumPy, scikit-learn, and TensorFlow.
