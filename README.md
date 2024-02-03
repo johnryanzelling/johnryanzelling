@@ -1,4 +1,4 @@
-<img src="ucc_seed1651116369.png"  width="150" height="150">
+<img src="bg.png"  width="150" height="150">
 
 ## Welcome to my GitHub profile
 I use github to store, manage, track, and share coding projects, but at the moment all repositories are private. 
