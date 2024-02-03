@@ -44,9 +44,16 @@ I use github to store, manage, track, and share coding projects, but at the mome
 - **Unity**
 - **Shaders development**
 
-#### Latest Project
+#### Latest Projects
 - **Generative Art**: Searching for new patterns. The idea for the project was to create fractals that are so infinitely deep that every image created is unique and something never seen before. I run the program at night generating images searching for new patterns. If I find something interesting, I can explore deeper or increase the resolution. 
-<img src="ucc_seed49161054.png"  width="300" height="300">
+<img src="ucc_seed1.png"  width="300" height="300">
+<img src="ucc_seed2.png"  width="300" height="300">
+<img src="ucc_seed3.png"  width="300" height="300">
+<img src="ucc_seed4.png"  width="300" height="300">
+<img src="ucc_seed5.png"  width="300" height="300">
+<img src="ucc_seed6.png"  width="300" height="300">
+<img src="ucc_seed7.png"  width="300" height="300">
+<img src="ucc_seed8.png"  width="300" height="300">
 
 - **Gantt Charts**: I like making custom Gantt Charts, I wrote the code to generate charts using a markdown language. Still a work in progress. Some examples:  
 <img src="gantO1.png" width="600" height="400">
