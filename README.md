@@ -60,6 +60,7 @@ I use github to store, manage, track, and share coding projects, but at the mome
 <img src="gantO2.png" width="600" height="400">
 
 - **Curve Plots**: Program that generates list of coordinates for use in generating 3d plots of parameterized curves. So far it includes 20 curve definitions of famous curves, adding more requires only updating a list and adding the equatinon. The program allows for exporting a csv of length n, which is then used to generate 3d point clouds or solids using the generating coordinates.  
+<img src="curvePlotsimg.png" width="500" height="600">
 <img src="logarithmic.png" width="600" height="400">
 <img src="toroidal.png" width="600" height="400">
 <img src="trefoil.png" width="600" height="400">
