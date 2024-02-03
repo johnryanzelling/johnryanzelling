@@ -48,6 +48,10 @@ I use github to store, manage, track, and share coding projects, but at the mome
 - **Generative Art**: Searching for new patterns. The idea for the project was to create fractals that are so infinitely deep that every image created is unique and something never seen before. I run the program at night generating images searching for new patterns. If I find something interesting, I can explore deeper or increase the resolution. 
 <img src="ucc_seed49161054.png"  width="300" height="300">
 
+- **Gantt Charts**: I like making custom Gantt Charts, I wrote the code to generate charts using a markdown language. Still a work in progress. Some examples:  
+<img src="gantO1.png" width="600" height="400">
+<img src="gantO2.png" width="600" height="400">
+
 ### Stats
 I'm currently working on projects to increase these stats:  
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
