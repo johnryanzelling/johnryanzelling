@@ -1,4 +1,4 @@
-<img src="bg.png"  width="150" height="150">
+<img src="bg.png"  width="600" height="400">
 
 ## Welcome to my GitHub profile
 I use github to store, manage, track, and share coding projects, but at the moment all repositories are private. 
