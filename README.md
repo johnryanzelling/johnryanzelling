@@ -51,6 +51,7 @@ I use github to store, manage, track, and share coding projects, but at the mome
 - **Gantt Charts**: I like making custom Gantt Charts, I wrote the code to generate charts using a markdown language. Still a work in progress. Some examples:  
 <img src="gantO1.png" width="600" height="400">
 <img src="gantO2.png" width="600" height="400">
+These charts were to determine whether it was better to pursue one assignment at a time, or whether to do four at a time. It allows for a visualization of details that aren't visible without considering the visual aspect of scheduling. 
 
 ### Stats
 I'm currently working on projects to increase these stats:  
