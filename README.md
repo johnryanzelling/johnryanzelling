@@ -66,6 +66,7 @@ I use github to store, manage, track, and share coding projects, but at the mome
 <img src="trefoil.png" width="600" height="400">
 After generating a csv files for any curve, the point files are then used to create 3D solids of rotation, for example: 
 <img src="rotationSolid01.png" width="600" height="400">
+<img src="rotationSolid02.png" width="600" height="400">
 
 ### Stats
 I'm currently working on projects to increase these stats:  
