@@ -45,7 +45,7 @@ I use github to store, manage, track, and share coding projects, but at the mome
 - **Shaders development**
 
 #### Latest Projects
-- **Generative Art**: Searching for new patterns. The idea for the project was to create fractals that are so infinitely deep that every image created is unique and something never seen before. I can generate images when I'm sleeping. If I find something interesting, I can explore deeper or increase the resolution. Every image can be recreated using the random seed value and the bounds of the viewport into the fractal. 
+- **Generative Art**: Searching for new patterns. The idea for the project was to create fractals that every image created is unique. The computer generates images when left running and I'm away. I can browse the images later and if I see something interesting, I can explore the area deeper or increase the resolution. Every image can be recreated using the random seed value and the bounds of the viewport into the fractal. 
 <img src="ucc_seed1.png"  width="300" height="300">
 <img src="ucc_seed2.png"  width="300" height="300">
 <img src="ucc_seed3.png"  width="300" height="300">
