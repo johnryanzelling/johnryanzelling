@@ -44,8 +44,11 @@ I use github to store, manage, track, and share coding projects, but at the mome
 - **Unity**
 - **Shaders development**
 
-#### Latest Projects
-- **Generative Art**: Searching for new patterns. The idea for the project was to create fractals that every image created is unique. The computer generates images when left running and I'm away. I can browse the images later and if I see something interesting, I can explore the area deeper or increase the resolution. Every image can be recreated using the random seed value and the bounds of the viewport into the fractal. 
+#### Some Projects
+
+- **Generative Art**
+- Searching for unique patterns.
+  
 <img src="ucc_seed1.png"  width="300" height="300">
 <img src="ucc_seed2.png"  width="300" height="300">
 <img src="ucc_seed3.png"  width="300" height="300">
@@ -55,16 +58,19 @@ I use github to store, manage, track, and share coding projects, but at the mome
 <img src="ucc_seed7.png"  width="300" height="300">
 <img src="ucc_seed8.png"  width="300" height="300">
 
-- **Gantt Charts**: I like making custom Gantt Charts, I wrote the code to generate charts using a markdown language. Still a work in progress. These charts were to determine whether it was better to pursue one assignment at a time, or whether to do four at a time. It allows for a visualization of details that aren't visible without considering the visual aspect of scheduling. Some examples:  
+- **Gantt Charts**
+- Experiment with custom Gantt Charts formed with a simple markdown language
+
 <img src="gantO1.png" width="600" height="400">
 <img src="gantO2.png" width="600" height="400">
 
-- **Curve Plots**: Program that generates list of coordinates for use in generating 3d plots of parameterized curves. Can generate any number of points and resolutions. So far it includes 20 curve definitions of famous curves, adding more requires only updating a list and adding the equation. The program allows for exporting a csv of length n, which is then used to generate 3d point files: 
+- **Curve Plots**
+- Generate arbitrary length coordinate csv files of length n of 3d parameterized curves and their corresponding solids of rotation 
+  
 <img src="curvePlotsimg.png" width="500" height="600">
 <img src="logarithmic.png" width="600" height="400">
 <img src="toroidal.png" width="600" height="400">
-<img src="trefoil.png" width="600" height="400">
-After generating a csv files for any curve, the point files are then used to create 3D solids of rotation, for example: 
+<img src="trefoil.png" width="600" height="400"> 
 <img src="rotationSolid01.png" width="600" height="400">
 <img src="rotationSolid02.png" width="600" height="400">
 
@@ -74,7 +80,9 @@ I'm currently working on projects to increase these stats:
 
 ### My Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- **GitHub:** [github.com/johnryanzelling](https://github.com/johnryanzelling.github.io)  
+- **GitHub:** [github.com/johnryanzelling](https://github.com/johnryanzelling.github.io)
+
+- Definitely coming soon with some updates since a lot has happened after the school year ended. 
 <!-- BLOG-POST-LIST:END -->
 
 ### How to Reach Me
