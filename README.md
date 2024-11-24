@@ -22,14 +22,10 @@
 #### Technical Art
 
 #### Some Projects
-
 - **Generative Art**
-[![Folder Icon](https://img.icons8.com/ios-filled/50/000000/folder-invoices.png)](https://github.com/johnryanzelling/johnryanzelling/tree/main/images)
-
 - **Gantt Charts**
-[![Folder Icon](https://img.icons8.com/ios-filled/50/000000/folder-invoices.png)](https://github.com/johnryanzelling/johnryanzelling/tree/main/images)
-
 - **Curve Plots**
+
 [![Folder Icon](https://img.icons8.com/ios-filled/50/000000/folder-invoices.png)](https://github.com/johnryanzelling/johnryanzelling/tree/main/images)
 
 ### How to Reach Me
