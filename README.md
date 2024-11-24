@@ -1,5 +1,5 @@
 ### About
-- I’m currently working on becoming a licensed substitute teacher and obtaining an MA in Teaching Mathematics. 
+- I’m currently a licensed substitute teacher and obtaining an MA in Teaching Mathematics. 
 - I love systems engineering and data programming. 
 - I’m working on database programming tools. 
 - I have written a book "Math Foundations" and I currently teach part-time Middle School and High School Mathematics.  
