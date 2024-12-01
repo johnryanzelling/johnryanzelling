@@ -1,33 +1,125 @@
-### About
-- I’m currently a licensed substitute teacher and obtaining an MA in Teaching Mathematics. 
-- I love systems engineering and data programming. 
-- I’m working on database programming tools. 
-- I have written a book "Math Foundations" and I currently teach part-time Middle School and High School Mathematics.  
+# 👋 Welcome to My GitHub  
 
-#### Programming Languages:
+### About  
+- Licensed substitute teacher currently pursuing an MA in Teaching Mathematics (expected 2026).  
+- Passionate about systems engineering, data programming, and education technology.  
+- Actively working on database programming tools and educational resources.  
+- Author of *Math Foundations* and part-time Middle and High School Mathematics teacher.  
+- Experienced in oilfield operations, surveying, and technical design.  
 
-#### Markup and Style Sheet Languages:
+---
 
-#### Databases
+### Research Interests  
+- Mathematics education and personalized learning.  
+- Data systems engineering and visualization tools.  
+- Applications of generative art in technical communication.  
 
-#### Version Control
-- **Git** 
+---
 
-#### Data Analysis and Visualization Tools
+### Education  
+- **MA in Teaching Mathematics** (in progress), Valley City State University 2027
+- **Certificate in Electrical Engineering Technology**, Pellissippi State Community College 2016
+- **M.S. Systems Engineering**, National University 2012  
+- **A.S. Building Information Technology**, College of Southern Nevada 2007
+- **B.S. Mathematics**, Allegheny College 1999
 
-#### Additional Tools and Frameworks
-- **Docker**
-- **Jupyter Notebooks**
+---
 
-#### Technical Art
+### Professional Positions  
+- Substitute Teacher, Williston Middle and High Schools  
+- Freelance Hot Oil & Hazmat Chemical Operator  
+- City Surveyor Assistant, City of Palo Alto  
+- Survey and Engineering Technician, City of North Las Vegas  
 
-#### Some Projects
-- **Generative Art**
-- **Gantt Charts**
-- **Curve Plots**
+---
 
-[![Folder Icon](https://img.icons8.com/ios-filled/50/000000/folder-invoices.png)](https://github.com/johnryanzelling/johnryanzelling/tree/main/images)
+### Publications and Projects  
+- **Book:** *Math Foundations* (Author)  
+- **Projects:**  
+  - Generative Art Tools  
+  - Gantt Chart Visualizations  
+  - Interactive Curve Plots  
+  - calendar app
+  - autoclick app
+  - dirTree System app
+  - moonPhases app
+  - FracData Analysis app
 
-### How to Reach Me
-- **LinkedIn:** [linkedin.com/in/johnryanzelling/](https://www.linkedin.com/in/johnryanzelling/)
-- **GitHub:** [github.com/johnryanzelling](https://github.com/johnryanzelling)
+---
+
+### Teaching Experience  
+- Middle and High School Mathematics (Williston Schools)  
+- Private tutoring in mathematics and technical skills  
+
+---
+
+### Skills & Tools  
+
+#### Programming Languages  
+- **Python**  
+- **JavaScript**  
+- **Mathematica**  
+
+#### Markup and Style Sheet Languages  
+- **HTML/CSS**  
+- **Markdown**  
+
+#### Databases  
+- **SQL**  
+- **MongoDB**  
+
+#### Version Control  
+- **Git**  
+
+#### Data Analysis and Visualization Tools  
+- **Matplotlib**  
+- **Pandas**  
+- **Jupyter Notebooks**  
+
+#### Additional Tools and Frameworks  
+- **Docker**  
+- **FastAPI**  
+- **Flask**  
+
+---
+
+### Field and Laboratory Experience  
+- Oilfield operations, including hot oil and hazmat chemical handling.  
+- Surveying and engineering design for municipal projects.  
+- Data collection and analysis for infrastructure development.  
+
+---
+
+### Awards and Scholarships  
+[Include any awards or scholarships here, if applicable.]  
+
+---
+
+### Languages  
+- **English**: Fluent  
+- **Spanish**: Conversational  
+
+---
+
+### Professional Memberships  
+[Include any memberships here, if applicable.]  
+
+---
+
+### Some Projects  
+- **Generative Art**  
+- **Gantt Charts**  
+- **Curve Plots**  
+
+[![Folder Icon](https://img.icons8.com/ios-filled/50/000000/folder-invoices.png)](https://github.com/johnryanzelling/johnryanzelling/tree/main/images)  
+
+---
+
+### How to Reach Me  
+- **LinkedIn:** [linkedin.com/in/johnryanzelling/](https://www.linkedin.com/in/johnryanzelling/)  
+- **GitHub:** [github.com/johnryanzelling](https://github.com/johnryanzelling)  
+
+---
+
+### Note on Projects  
+*All repositories are private.*  
