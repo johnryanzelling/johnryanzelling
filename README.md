@@ -114,3 +114,5 @@
 
 ### Note on Projects  
 *All repositories are private.*
+
+![Directory Tree](directory_tree.png)
