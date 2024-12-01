@@ -104,7 +104,7 @@
 
 ## Project Gallery
 
-View the interactive image gallery [here](imageGalleryJS/index.html).
+View the interactive image gallery [here](https://johnryanzelling.github.io/johnryanzelling/imageGalleryJS/).
 
 ---
 
