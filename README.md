@@ -105,8 +105,7 @@ Features dynamic tools, educational resources, and systems engineering solutions
 
 ## Project Gallery
 
-[![Folder Icon](https://img.icons8.com/ios-filled/50/000000/folder-invoices.png)]
-(https://johnryanzelling.github.io/interactive-portfolio/imageGalleryJS/)
+[![Folder Icon](https://img.icons8.com/ios-filled/50/000000/folder-invoices.png)](https://johnryanzelling.github.io/interactive-portfolio/imageGalleryJS/)
 
 ---
 
