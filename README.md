@@ -104,7 +104,8 @@
 
 ## Project Gallery
 
-View the interactive image gallery [here](https://johnryanzelling.github.io/johnryanzelling/imageGalleryJS/).
+[![Folder Icon](https://img.icons8.com/ios-filled/50/000000/folder-invoices.png)]
+(https://johnryanzelling.github.io/johnryanzelling/imageGalleryJS/)
 
 ---
 
