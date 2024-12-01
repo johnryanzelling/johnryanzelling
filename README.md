@@ -1,4 +1,5 @@
-# 👋 Welcome to My GitHub  
+A repository showcasing interactive projects, including an image gallery with JavaScript, hosted on GitHub Pages. 
+Features dynamic tools, educational resources, and systems engineering solutions.
 
 ### About  
 - Licensed substitute teacher currently pursuing an MA in Teaching Mathematics (expected 2026).  
