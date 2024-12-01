@@ -102,7 +102,9 @@
 - **Gantt Charts**  
 - **Curve Plots**  
 
-[![Folder Icon](https://img.icons8.com/ios-filled/50/000000/folder-invoices.png)](https://github.com/johnryanzelling/johnryanzelling/tree/main/images)  
+## Project Gallery
+
+View the interactive image gallery [here](imageGalleryJS/index.html).
 
 ---
 
