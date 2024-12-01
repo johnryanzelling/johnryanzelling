@@ -59,6 +59,7 @@
 - **Python**  
 - **JavaScript**  
 - **Mathematica**  
+- **R**
 
 #### Markup and Style Sheet Languages  
 - **HTML/CSS**  
@@ -90,19 +91,9 @@
 
 ---
 
-### Awards and Scholarships  
-[Include any awards or scholarships here, if applicable.]  
-
----
-
 ### Languages  
 - **English**: Fluent  
 - **Spanish**: Conversational  
-
----
-
-### Professional Memberships  
-[Include any memberships here, if applicable.]  
 
 ---
 
@@ -122,4 +113,4 @@
 ---
 
 ### Note on Projects  
-*All repositories are private.*  
+*All repositories are private.*
